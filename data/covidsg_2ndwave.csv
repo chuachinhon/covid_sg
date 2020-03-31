@@ -1,0 +1,733 @@
+Confirmed Case ID,Date Confirmed Positive,Category,Nationality,Age,Gender,Travel History
+Case 1,23/1/2020,Imported,China,66,M,China
+Case 2,24/1/2020,Imported,China,53,F,China
+Case 3,24/1/2020,Imported,China,37,M,China
+Case 4,25/1/2020,Imported,China,36,M,China
+Case 5,27/1/2020,Imported,China,56,F,China
+Case 6,27/1/2020,Imported,China,56,M,China
+Case 7,27/1/2020,Imported,China,35,M,China
+Case 8,28/1/2020,Imported,China,56,F,China
+Case 9,29/1/2020,Imported,China,56,M,China
+Case 10,29/1/2020,Imported,China,56,M,China
+Case 11,29/1/2020,Imported,China,31,F,China
+Case 12,29/1/2020,Imported,China,37,F,China
+Case 13,30/1/2020,Imported,China,73,F,China
+Case 14,30/1/2020,Imported,China,31,M,China
+Case 15,31/1/2020,Imported,Singapore,47,F,China
+Case 16,31/1/2020,Imported,China,38,M,China
+Case 17,31/1/2020,Imported,Singapore,47,F,China
+Case 18,1/2/2020,Imported,China,31,F,China
+Case 19,3/2/2020,Local,Singapore PR,28,F,
+Case 20,3/2/2020,Local,Singapore,48,F,
+Case 21,4/2/2020,Local,Indonesian,44,F,
+Case 22,3/2/2020,Imported,Singapore,41,M,China
+Case 23,3/2/2020,Imported,Singapore,17,M,China
+Case 24,4/2/2020,Local,Singapore,32,F,
+Case 25,4/2/2020,Local,Singapore,40,M,
+Case 26,4/2/2020,Imported,China,42,F,China
+Case 27,5/2/2020,Local,Singapore,45,M,
+Case 28,5/2/2020,Local,Singapore,0.5,M,
+Case 29,5/2/2020,Local,Singapore,41,M,
+Case 30,6/2/2020,Local,Singapore,27,M,
+Case 31,6/2/2020,Local,Singapore,53,M,
+Case 32,6/2/2020,Local,Singapore,42,F,
+Case 33,6/2/2020,Local,Singapore,39,F,
+Case 34,7/2/2020,Local,Singapore,40,F,
+Case 35,7/2/2020,Local,Singapore,64,M,
+Case 36,7/2/2020,Local,Singapore PR,38,F,
+Case 37,7/2/2020,Local,Singapore,53,M,
+Case 38,8/2/2020,Local,Singapore,52,F,
+Case 39,8/2/2020,Local,Singapore,51,M,
+Case 40,8/2/2020,Local,Singapore,36,M,
+Case 41,8/2/2020,Local,Singapore,71,M,
+Case 42,8/2/2020,Local,Bangladesh,39,M,
+Case 43,8/2/2020,Local,Singapore,54,M,
+Case 44,9/2/2020,Local,Singapore,37,M,
+Case 45,10/2/2020,Local,Singapore,2,F,
+Case 46,10/2/2020,Local,Singapore PR,35,M,
+Case 47,10/2/2020,Local,Bangladesh,39,M,
+Case 48,11/2/2020,Local,Singapore,34,M,
+Case 49,11/2/2020,Local,Singapore,46,M,
+Case 50,12/2/2020,Local,Singapore,62,M,
+Case 51,12/2/2020,Local,Singapore,48,M,
+Case 52,12/2/2020,Local,Bangladesh,37,M,
+Case 53,12/2/2020,Local,Singapore,54,M,
+Case 54,13/2/2020,Local,Singapore,54,F,
+Case 55,13/2/2020,Local,Singapore,30,M,
+Case 56,13/2/2020,Local,Bangladesh,30,M,
+Case 57,13/2/2020,Local,Singapore,26,M,
+Case 58,13/2/2020,Local,Singapore,55,M,
+Case 59,13/2/2020,Local,Singapore,61,M,
+Case 60,13/2/2020,Local,Singapore,51,F,
+Case 61,13/2/2020,Local,Singapore,57,M,
+Case 62,13/2/2020,Local,Singapore,44,F,
+Case 63,14/2/2020,Local,Singapore,54,F,
+Case 64,14/2/2020,Local,Singapore,50,M,
+Case 65,14/2/2020,Local,Singapore,61,F,
+Case 66,14/2/2020,Local,Singapore,28,M,
+Case 67,14/2/2020,Local,Singapore,56,F,
+Case 68,14/2/2020,Local,Singapore,79,F,
+Case 69,15/2/2020,Local,Bangladesh,26,M,
+Case 70,15/2/2020,Local,Singapore,27,F,
+Case 71,15/2/2020,Local,Singapore,25,M,
+Case 72,15/2/2020,Local,China,40,M,
+Case 73,15/2/2020,Local,Singapore,43,M,
+Case 74,15/2/2020,Local,Singapore,29,M,
+Case 75,16/2/2020,Local,Singapore,71,F,
+Case 76,16/2/2020,Imported,Singapore,1,M,China
+Case 77,17/2/2020,Local,Singapore,35,M,
+Case 78,17/2/2020,Local,Singapore,57,F,
+Case 79,17/2/2020,Local,Malaysia,35,F,
+Case 80,18/2/2020,Local,Singapore,38,F,
+Case 81,18/2/2020,Local,Singapore,50,M,
+Case 82,18/2/2020,Local,Singapore,57,F,
+Case 83,19/2/2020,Local,Singapore,54,M,
+Case 84,19/2/2020,Local,Singapore,35,F,
+Case 85,20/2/2020,Local,China,36,M,
+Case 86,20/2/2020,Local,Singapore,24,M,
+Case 87,21/2/2020,Imported,Singapore,32,M,China
+Case 88,21/2/2020,Local,Singapore,30,F,
+Case 89,22/2/2020,Local,Singapore PR,41,M,
+Case 90,23/2/2020,Local,Singapore,75,F,
+Case 91,22/2/2020,Local,Singapore,58,F,
+Case 92,26/2/2020,Local,Singapore,47,M,
+Case 93,26/2/2020,Local,Singapore,38,M,
+Case 94,26/2/2020,Local,Singapore,64,F,
+Case 95,27/2/2020,Local,Singapore,44,M,
+Case 96,27/2/2020,Local,Singapore,12,M,
+Case 97,27/2/2020,Local,Singapore PR,24,M,
+Case 98,28/2/2020,Local,Singapore PR,44,F,
+Case 99,28/2/2020,Local,Singapore,27,M,
+Case 100,28/2/2020,Local,Malaysia,20,M,
+Case 101,29/2/2020,Local,Singapore,61,M,
+Case 102,29/2/2020,Local,Philippines,41,F,
+Case 103,1/3/2020,Local,Singapore,37,F,
+Case 104,1/3/2020,Local,Myanmar,25,F,
+Case 105,1/3/2020,Local,Singapore,49,M,
+Case 106,1/3/2020,Local,Japan,54,M,
+Case 107,1/3/2020,Local,Singapore,68,F,
+Case 108,2/3/2020,Local,Philippines,34,F,
+Case 109,2/3/2020,Local,Singapore,70,M,
+Case 110,3/3/2020,Local,Singapore,33,M,
+Case 111,3/3/2020,Local,Singapore PR,43,M,
+Case 112,4/3/2020,Local,Singapore,62,F,
+Case 113,4/3/2020,Imported,France,42,M,"France, Portugal, UK"
+Case 114,4/3/2020,Local,Singapore,62,M,
+Case 115,5/3/2020,Local,Singapore,62,F,
+Case 116,5/3/2020,Local,Singapore,50,F,
+Case 117,5/3/2020,Local,Singapore,52,F,
+Case 118,5/3/2020,Local,Singapore,33,F,
+Case 119,5/3/2020,Local,Singapore,55,M,
+Case 120,5/3/2020,Local,Singapore,62,F,
+Case 121,5/3/2020,Local,Singapore,54,F,
+Case 122,5/3/2020,Local,Singapore,64,F,
+Case 123,5/3/2020,Imported,Singapore,47,M,"South Africa, France"
+Case 124,6/3/2020,Imported,Singapore PR,37,F,Germany
+Case 125,6/3/2020,Local,Singapore,65,F,
+Case 126,6/3/2020,Local,Singapore,77,M,
+Case 127,6/3/2020,Local,Singapore,64,F,
+Case 128,6/3/2020,Local,Singapore,70,M,
+Case 129,6/3/2020,Local,Singapore,68,F,
+Case 130,6/3/2020,Local,Singapore,66,M,
+Case 131,6/3/2020,Local,Singapore,66,M,
+Case 132,6/3/2020,Imported,Singapore PR,37,F,UK
+Case 133,6/3/2020,Local,Indonesia,62,F,
+Case 134,6/3/2020,Local,Singapore,56,F,Malaysia
+Case 135,6/3/2020,Local,Singapore,40,M,
+Case 136,6/3/2020,Imported,Italy,36,M,"US, Italy"
+Case 137,6/3/2020,Local,Singapore,60,M,
+Case 138,6/3/2020,Local,Singapore,26,M,
+Case 139,7/3/2020,Local,Singapore,71,M,
+Case 140,7/3/2020,Local,Singapore,62,F,
+Case 141,7/3/2020,Local,Singapore,69,M,
+Case 142,7/3/2020,Local,Singapore,26,M,
+Case 143,7/3/2020,Local,Singapore PR,42,M,
+Case 144,7/3/2020,Local,Singapore,58,F,
+Case 145,8/3/2020,Local,Singapore,67,F,
+Case 146,8/3/2020,Local,Singapore,64,F,
+Case 147,8/3/2020,Imported,Indonesia,64,M,Indonesia
+Case 148,8/3/2020,Local,Singapore,67,F,Indonesia
+Case 149,8/3/2020,Local,Singapore,62,M,
+Case 150,8/3/2020,Local,Singapore PR,53,F,
+Case 151,8/3/2020,Local,Singapore,51,M,
+Case 152,8/3/2020,Imported,Indonesia,65,M,Indonesia
+Case 153,8/3/2020,Imported,Singapore,65,F,Indonesia
+Case 154,9/3/2020,Imported,UK,52,M,"Switzerland, UK"
+Case 155,9/3/2020,Local,Malaysia,47,F,
+Case 156,9/3/2020,Local,Singapore PR,50,F,
+Case 157,9/3/2020,Local,Singapore PR,54,F,
+Case 158,9/3/2020,Local,Singapore,53,F,
+Case 159,9/3/2020,Local,Singapore,59,M,
+Case 160,9/3/2020,Local,Singapore,5,M,
+Case 161,9/3/2020,Local,Singapore,73,M,
+Case 162,9/3/2020,Local,Singapore,28,M,
+Case 163,9/3/2020,Local,Singapore,27,F,
+Case 164,10/3/2020,Local,Singapore PR,57,F,
+Case 165,10/3/2020,Imported,Singapore,30,M,France
+Case 166,10/3/2020,Local,Singapore,55,F,
+Case 167,10/3/2020,Imported,Philippines,35,F,Philippines
+Case 168,10/3/2020,Local,Singapore,47,M,
+Case 169,10/3/2020,Imported,Singapore,40,M,France
+Case 170,10/3/2020,Imported,Indonesia,56,F,Indonesia
+Case 171,11/3/2020,Imported,Singapore,27,M,"France, Spain"
+Case 172,11/3/2020,Imported,Philippines,42,F,Philippines
+Case 173,11/3/2020,Imported,Singapore,31,M,France
+Case 174,11/3/2020,Local,Singapore,67,F,
+Case 175,11/3/2020,Imported,Singapore,44,M,France
+Case 176,11/3/2020,Imported,Britain,37,F,"Japan, UK"
+Case 177,11/3/2020,Imported,Singapore,26,M,"US, UK, France"
+Case 178,11/3/2020,Imported,Philippines,37,M,Philippines
+Case 179,11/3/2020,Local,Singapore,66,F,
+Case 180,12/3/2020,Imported,Singapore,71,M,US
+Case 181,12/3/2020,Imported,Indonesia,83,M,Indonesia
+Case 182,12/3/2020,Imported,Indonesia,76,F,Indonesia
+Case 183,12/3/2020,Imported,Singapore,29,M,Malaysia
+Case 184,12/3/2020,Local,Philippines,35,M,
+Case 185,12/3/2020,Local,Singapore,34,M,
+Case 186,12/3/2020,Local,Singapore,64,M,
+Case 187,12/3/2020,Imported,Singapore,48,M,Malaysia
+Case 188,12/3/2020,Imported,Singapore,53,M,Thailand
+Case 189,12/3/2020,Imported,India,36,M,India
+Case 190,13/3/2020,Local,Singapore,53,M,
+Case 191,13/3/2020,Imported,Malaysia,24,F,"Germany, Malaysia"
+Case 192,13/3/2020,Imported,US,32,M,US
+Case 193,13/3/2020,Imported,Malaysia,26,M,"Germany, Czech Republic, Austria, Hungary"
+Case 194,13/3/2020,Imported,China,24,F,"Germany, Czech Republic, Austria, Hungary"
+Case 195,13/3/2020,Imported,Singapore,47,M,"US, Canada"
+Case 196,13/3/2020,Local,Singapore,73,F,
+Case 197,13/3/2020,Imported,Singapore,30,M,Malaysia
+Case 198,13/3/2020,Local,Singapore,61,F,
+Case 199,13/3/2020,Imported,Singapore,37,M,Malaysia
+Case 200,13/3/2020,Local,Singapore,62,F,
+Case 201,13/3/2020,Local,Singapore,52,F,
+Case 202,13/3/2020,Imported,Singapore,44,M,Malaysia
+Case 203,13/3/2020,Imported,Singapore,36,F,Indonesia
+Case 204,13/3/2020,Imported,US,32,M,Japan
+Case 205,14/3/2020,Imported,Philippines,30,F,Philippines
+Case 206,14/3/2020,Imported,New Zealand,33,F,US
+Case 207,14/3/2020,Imported,Singapore,40,F,UK
+Case 208,14/3/2020,Local,Singapore,26,F,
+Case 209,14/3/2020,Imported,Singapore,32,F,US
+Case 210,14/3/2020,Imported,Germany,56,M,"Germany, Switzerland"
+Case 211,14/3/2020,Local,Philippines,35,F,
+Case 212,14/3/2020,Imported,Indonesia,64,M,Indonesia
+Case 213,14/3/2020,Imported,Singapore,48,M,Indonesia
+Case 214,14/3/2020,Local,Singapore,29,M,
+Case 215,14/3/2020,Imported,Singapore,65,M,Thailand
+Case 216,14/3/2020,Imported,Singapore,30,M,"Germany, Czech Republic"
+Case 217,14/3/2020,Imported,Spain,22,M,Spain
+Case 218,14/3/2020,Local,Singapore,55,F,
+Case 219,15/3/2020,Local,Singapore,30,M,
+Case 220,15/3/2020,Imported,Singapore PR,53,M,France
+Case 221,15/3/2020,Local,Philippines,28,F,
+Case 222,15/3/2020,Imported,France,41,M,"France, Spain, Philippines"
+Case 223,15/3/2020,Imported,Singapore,60,M,"US, Australia"
+Case 224,15/3/2020,Local,Singapore,50,M,
+Case 225,15/3/2020,Imported,Singapore,63,M,Indonesia
+Case 226,15/3/2020,Imported,Netherlands,49,M,Netherlands
+Case 227,15/3/2020,Imported,Singapore,53,M,France
+Case 228,15/3/2020,Local,Singapore,67,M,
+Case 229,15/3/2020,Imported,Singapore PR,26,F,Spain
+Case 230,15/3/2020,Imported,Singapore,38,F,Eastern Europe
+Case 231,15/3/2020,Imported,Australia,78,M,US
+Case 232,15/3/2020,Imported,Australia,65,F,US
+Case 233,16/3/2020,Imported,UK,61,M,UK
+Case 234,16/3/2020,Local,Singapore,86,M,
+Case 235,16/3/2020,Local,Singapore,31,F,
+Case 236,16/3/2020,Local,Singapore,30,F,
+Case 237,16/3/2020,Local,Indonesia,36,F,
+Case 238,16/3/2020,Imported,Belgium,83,F,Belgium
+Case 239,16/3/2020,Imported,UK,28,M,France
+Case 240,16/3/2020,Imported,Singapore PR,27,M,Spain
+Case 241,16/3/2020,Imported,UK,28,M,France
+Case 242,16/3/2020,Local,Singapore,64,F,
+Case 243,16/3/2020,Imported,Singapore,36,M,"Germany, Italy, Switzerland"
+Case 244,16/3/2020,Imported,Singapore,53,M,"Germany, Italy, Switzerland"
+Case 245,16/3/2020,Local,Singapore,76,M,
+Case 246,16/3/2020,Imported,Canada,39,M,Japan
+Case 247,16/3/2020,Imported,Singapore,41,M,"UK, France"
+Case 248,17/3/2020,Local,Malaysia,23,F,
+Case 249,17/3/2020,Imported,Singapore PR,42,M,US
+Case 250,17/3/2020,Imported,UK,28,M,"UK, Austria"
+Case 251,17/3/2020,Local,Singapore,59,F,
+Case 252,17/3/2020,Local,Singapore,66,M,
+Case 253,17/3/2020,Imported,Singapore,24,M,Spain
+Case 254,17/3/2020,Imported,Singapore PR,43,F,France
+Case 255,17/3/2020,Imported,Sweden,44,M,"Norway, Denmark, Sweden"
+Case 256,17/3/2020,Local,Philippines,32,F,
+Case 257,17/3/2020,Imported,France,19,M,UK
+Case 258,17/3/2020,Imported,India,47,M,Europe
+Case 259,17/3/2020,Imported,Singapore,30,F,Philippines
+Case 260,17/3/2020,Local,Singapore PR,48,F,
+Case 261,17/3/2020,Imported,US,30,M,"US, France"
+Case 262,17/3/2020,Imported,Indonesia,20,F,UK
+Case 263,17/3/2020,Imported,Singapore,52,F,"Spain, Portugal"
+Case 264,17/3/2020,Imported,Indonesia,41,F,Indonesia
+Case 265,17/3/2020,Imported,Singapore,25,F,UK
+Case 266,17/3/2020,Imported,Singapore,63,M,"Spain, Portugal"
+Case 267,17/3/2020,Imported,Singapore,72,F,Indonesia
+Case 268,17/3/2020,Imported,UK,64,M,"Switzerland, UK"
+Case 269,17/3/2020,Imported,Singapore,19,F,UK
+Case 270,17/3/2020,Imported,Singapore,62,F,"Croatia, Bosnia, Serbia, Slovenia, Austria"
+Case 271,17/3/2020,Imported,Singapore,29,M,UK
+Case 272,17/3/2020,Imported,Singapore,65,M,Eastern Europe
+Case 273,17/3/2020,Local,Singapore,69,M,
+Case 274,17/3/2020,Imported,US,50,M,US
+Case 275,17/3/2020,Local,Singapore,27,M,
+Case 276,17/3/2020,Imported,Singapore,21,M,UK
+Case 277,17/3/2020,Imported,Singapore,55,M,US
+Case 278,17/3/2020,Imported,US,48,F,"Switzerland, US"
+Case 279,17/3/2020,Imported,Singapore,71,M,Philippines
+Case 280,17/3/2020,Imported,Singapore,21,F,UK
+Case 281,17/3/2020,Imported,Singapore,46,M,"US, Canada"
+Case 282,17/3/2020,Imported,Switzerland,76,M,France
+Case 283,17/3/2020,Local,Singapore,62,F,
+Case 284,17/3/2020,Imported,Singapore,32,M,US
+Case 285,17/3/2020,Imported,Thailand,42,F,Thailand
+Case 286,17/3/2020,Imported,UK,54,M,UK
+Case 287,17/3/2020,Local,Singapore,26,M,
+Case 288,18/3/2020,Local,Singapore,71,M,
+Case 289,18/3/2020,Local,Singapore,62,M,
+Case 290,18/3/2020,Local,Singapore,69,M,
+Case 291,18/3/2020,Local,India,52,M,
+Case 292,18/3/2020,Imported,Singapore,64,F,Turkey
+Case 293,18/3/2020,Imported,UK,30,M,UK
+Case 294,18/3/2020,Local,Singapore PR,58,F,
+Case 295,18/3/2020,Imported,Singapore,55,M,US
+Case 296,18/3/2020,Imported,Malaysia,25,F,UK
+Case 297,18/3/2020,Imported,Indonesia,31,M,Indonesia
+Case 298,18/3/2020,Imported,Singapore,44,M,India
+Case 299,18/3/2020,Imported,Singapore,29,M,Philippines
+Case 300,18/3/2020,Imported,Germany,28,M,"Switzerland, Austria"
+Case 301,18/3/2020,Imported,Singapore,63,M,"Switzerland, Austria"
+Case 302,18/3/2020,Local,Singapore,49,F,
+Case 303,18/3/2020,Local,Malaysia,27,M,
+Case 304,18/3/2020,Imported,Singapore,27,F,"UK, Switzerland, Austria"
+Case 305,18/3/2020,Local,Singapore,24,M,
+Case 306,18/3/2020,Imported,Singapore,56,M,UK
+Case 307,18/3/2020,Imported,Singapore,22,F,Philippines
+Case 308,18/3/2020,Imported,Singapore,59,M,US
+Case 309,18/3/2020,Imported,Singapore,60,M,"Croatia, Austria"
+Case 310,18/3/2020,Local,Singapore,58,M,
+Case 311,18/3/2020,Local,Singapore,80,F,
+Case 312,18/3/2020,Imported,France,30,M,"France, Germany"
+Case 313,18/3/2020,Imported,UK,39,M,UK
+Case 314,18/3/2020,Local,Singapore,58,M,
+Case 315,18/3/2020,Imported,Singapore,57,M,UK
+Case 316,18/3/2020,Imported,Malaysia,25,M,Malaysia
+Case 317,18/3/2020,Imported,Singapore,29,M,UK
+Case 318,18/3/2020,Local,China,58,F,
+Case 319,18/3/2020,Imported,Philippines,67,F,Philippines
+Case 320,18/3/2020,Imported,Singapore PR,34,M,UK
+Case 321,18/3/2020,Local,Singapore,65,F,
+Case 322,18/3/2020,Imported,Singapore PR,46,F,"Switzerland, France"
+Case 323,18/3/2020,Imported,Singapore,24,M,UK
+Case 324,18/3/2020,Imported,Brazil,45,M,UK
+Case 325,19/3/2020,Imported,Philippines,38,M,UK
+Case 326,19/3/2020,Imported,Singapore,33,M,"UK, Netherlands"
+Case 327,19/3/2020,Imported,Singapore,38,F,"Switzerland, Italy, Austria, Germany"
+Case 328,19/3/2020,Imported,Singapore PR,63,F,"UK, Switzerland"
+Case 329,19/3/2020,Imported,Singapore,64,M,Turkey
+Case 330,19/3/2020,Local,Singapore,67,M,
+Case 331,19/3/2020,Imported,Singapore PR,49,F,UK
+Case 332,19/3/2020,Imported,US,36,F,UK
+Case 333,19/3/2020,Imported,Colombia,48,M,US
+Case 334,19/3/2020,Imported,Singapore,32,F,US
+Case 335,19/3/2020,Local,Singapore,57,M,
+Case 336,19/3/2020,Local,Singapore,60,M,
+Case 337,19/3/2020,Imported,Switzerland,31,M,"France, Switzerland"
+Case 338,19/3/2020,Local,Singapore,57,M,
+Case 339,19/3/2020,Imported,Singapore,66,M,Philippines
+Case 340,19/3/2020,Imported,Singapore,27,M,Philippines
+Case 341,19/3/2020,Imported,Germany,31,M,UK
+Case 342,19/3/2020,Imported,Singapore,31,M,Thailand
+Case 343,19/3/2020,Imported,Singapore PR,20,F,UK
+Case 344,19/3/2020,Imported,Singapore,21,F,UK
+Case 345,19/3/2020,Local,Germany,30,M,
+Case 346,19/3/2020,Imported,Singapore,59,M,India
+Case 347,19/3/2020,Imported,Singapore,27,M,UK
+Case 348,19/3/2020,Local,Singapore,51,F,
+Case 349,19/3/2020,Imported,Singapore,21,M,UK
+Case 350,19/3/2020,Local,Singapore,61,M,
+Case 351,19/3/2020,Imported,Singapore,51,M,Indonesia
+Case 352,19/3/2020,Imported,Singapore,43,M,"Russia, Denmark"
+Case 353,19/3/2020,Local,Singapore,23,M,
+Case 354,19/3/2020,Imported,Singapore,59,M,UK
+Case 355,19/3/2020,Imported,Australia,38,M,UK
+Case 356,19/3/2020,Imported,Australia,27,M,India
+Case 357,19/3/2020,Imported,Germany,41,M,"Germany, US, France, Monaco"
+Case 358,19/3/2020,Local,Singapore PR,39,F,
+Case 359,19/3/2020,Local,Singapore,45,F,
+Case 360,19/3/2020,Imported,Singapore,26,M,UK
+Case 361,19/3/2020,Local,Singapore,32,M,
+Case 362,19/3/2020,Imported,Germany,45,F,"Germany, Holland"
+Case 363,19/3/2020,Imported,Singapore,49,M,UK
+Case 364,20/3/2020,Local,Singapore,52,M,
+Case 365,20/3/2020,Imported,Netherlands,33,M,"Austria, Netherlands, UK"
+Case 366,20/3/2020,Imported,Singapore,26,F,"UK, Switzerland, Austria"
+Case 367,20/3/2020,Local,Singapore,25,M,
+Case 368,20/3/2020,Local,Indonesia,19,F,
+Case 369,20/3/2020,Imported,Singapore,34,M,Thailand
+Case 370,20/3/2020,Imported,Malaysia,73,M,Indonesia
+Case 371,20/3/2020,Imported,Singapore,22,M,UK
+Case 372,20/3/2020,Imported,Singapore,22,F,UK
+Case 373,20/3/2020,Imported,Singapore,51,M,UK
+Case 374,20/3/2020,Imported,Singapore,23,F,UK
+Case 375,20/3/2020,Imported,Singapore,25,F,UK
+Case 376,20/3/2020,Imported,Singapore PR,21,F,UK
+Case 377,20/3/2020,Imported,Singapore,59,M,UK
+Case 378,20/3/2020,Imported,UK,38,M,UK
+Case 379,20/3/2020,Imported,Sweden,62,M,Indonesia
+Case 380,20/3/2020,Imported,Singapore,34,M,Switzerland
+Case 381,20/3/2020,Imported,Singapore PR,27,F,Spain
+Case 382,20/3/2020,Imported,Singapore,55,F,UK
+Case 383,20/3/2020,Imported,Singapore,42,F,UK
+Case 384,20/3/2020,Local,Singapore,65,M,
+Case 385,20/3/2020,Imported,Singapore,22,M,UK
+Case 386,20/3/2020,Local,Singapore,64,F,
+Case 387,20/3/2020,Imported,Switzerland,30,F,"France, Switzerland"
+Case 388,20/3/2020,Local,Singapore,40,M,
+Case 389,20/3/2020,Imported,Russia,36,F,India
+Case 390,20/3/2020,Imported,Singapore,35,F,UK
+Case 391,20/3/2020,Imported,Australia,53,M,"Australia, US"
+Case 392,20/3/2020,Imported,Singapore PR,54,M,Indonesia
+Case 393,20/3/2020,Imported,Singapore,21,M,UK
+Case 394,20/3/2020,Imported,Philippines,66,F,Philippines
+Case 395,20/3/2020,Local,Singapore,54,M,
+Case 396,20/3/2020,Local,Singapore,46,M,
+Case 397,20/3/2020,Imported,Ireland,43,M,Ireland
+Case 398,20/3/2020,Local,Singapore PR,57,M,
+Case 399,20/3/2020,Imported,Singapore,23,F,UK
+Case 400,20/3/2020,Imported,Singapore,56,M,UK
+Case 401,20/3/2020,Imported,Singapore,20,M,UK
+Case 402,20/3/2020,Imported,Indonesia,22,F,Indonesia
+Case 403,20/3/2020,Imported,Indonesia,77,M,Indonesia
+Case 404,20/3/2020,Imported,Australia,28,M,"Malaysia, Philippines"
+Case 405,20/3/2020,Imported,Singapore,25,M,UK
+Case 406,20/3/2020,Local,Singapore,61,F,
+Case 407,20/3/2020,Imported,Spain,25,M,Pending
+Case 408,20/3/2020,Imported,Singapore,27,M,US
+Case 409,20/3/2020,Imported,Australia,23,F,US
+Case 410,21/3/2020,Imported,Singapore,20,F,UK
+Case 411,21/3/2020,Imported,Singapore,30,M,UK
+Case 412,21/3/2020,Imported,Singapore,19,F,UK
+Case 413,21/3/2020,Imported,Singapore,29,M,Switzerland
+Case 414,21/3/2020,Imported,Australia,37,M,US
+Case 415,21/3/2020,Imported,Indonesia,64,F,Indonesia
+Case 416,21/3/2020,Imported,Singapore,21,M,UK
+Case 417,21/3/2020,Imported,France,18,F,UK
+Case 418,21/3/2020,Imported,Singapore PR,44,M,US
+Case 419,21/3/2020,Imported,Netherlands,45,M,Pending
+Case 420,21/3/2020,Imported,Singapore,21,F,UK
+Case 421,21/3/2020,Imported,Singapore,23,M,UK
+Case 422,21/3/2020,Imported,Singapore,56,F,US
+Case 423,21/3/2020,Imported,Singapore,24,M,Ireland
+Case 424,21/3/2020,Imported,Singapore,24,M,US
+Case 425,21/3/2020,Imported,Singapore,21,F,US
+Case 426,21/3/2020,Local,Singapore,55,F,
+Case 427,21/3/2020,Imported,Singapore,39,M,US
+Case 428,21/3/2020,Imported,Singapore,22,M,UK
+Case 429,21/3/2020,Imported,Singapore,31,F,"Germany, UK"
+Case 430,21/3/2020,Local,Singapore,59,F,
+Case 431,21/3/2020,Imported,Singapore,58,M,UK
+Case 432,21/3/2020,Imported,UK,53,F,Indonesia
+Case 433,21/3/2020,Imported,Singapore,24,M,Canada
+Case 434,21/3/2020,Local,Singapore,36,M,
+Case 435,21/3/2020,Imported,Singapore,30,F,Malaysia
+Case 436,21/3/2020,Imported,Singapore,46,M,Philippines
+Case 437,21/3/2020,Imported,UK,33,M,"Denmark, Switzerland, France"
+Case 438,21/3/2020,Imported,US,55,F,US
+Case 439,21/3/2020,Imported,Denmark,55,F,Denmark
+Case 440,21/3/2020,Imported,Singapore,55,M,UK
+Case 441,21/3/2020,Imported,Singapore,57,F,"US, Mexico"
+Case 442,21/3/2020,Local,Singapore,48,F,
+Case 443,21/3/2020,Local,Singapore,29,M,
+Case 444,21/3/2020,Imported,Singapore,44,M,Pending
+Case 445,21/3/2020,Imported,Singapore,21,M,UK
+Case 446,21/3/2020,Imported,Indonesia,26,F,UK
+Case 447,21/3/2020,Imported,Singapore,32,F,UK
+Case 448,21/3/2020,Imported,Singapore,21,M,UK
+Case 449,21/3/2020,Imported,Singapore,21,M,UK
+Case 450,21/3/2020,Local,Singapore,44,M,
+Case 451,22/3/2020,Local,Singapore,62,M,
+Case 452,22/3/2020,Imported,Singapore PR,22,F,UK
+Case 453,22/3/2020,Imported,India,41,M,UK
+Case 454,22/3/2020,Imported,Singapore,47,F,US
+Case 455,22/3/2020,Imported,Singapore,29,M,UK
+Case 456,22/3/2020,Imported,Singapore,24,M,UK
+Case 457,22/3/2020,Local,Myanmar,40,M,
+Case 458,22/3/2020,Imported,Singapore,20,F,UK
+Case 459,22/3/2020,Local,Singapore,67,M,
+Case 460,22/3/2020,Imported,New Zealand,23,F,UK
+Case 461,22/3/2020,Imported,Singapore,49,F,Malaysia
+Case 462,22/3/2020,Imported,Singapore,20,F,UK
+Case 463,22/3/2020,Imported,Singapore,64,M,"Malaysia, Indonesia"
+Case 464,22/3/2020,Imported,Singapore,23,M,UK
+Case 465,22/3/2020,Imported,Singapore,41,M,UK
+Case 466,22/3/2020,Imported,Singapore PR,55,M,Indonesia
+Case 467,22/3/2020,Imported,Singapore,20,F,UK
+Case 468,22/3/2020,Imported,Singapore PR,28,M,UK
+Case 469,22/3/2020,Imported,Singapore,43,M,"Spain, Malaysia"
+Case 470,22/3/2020,Imported,Singapore PR,24,F,Indonesia
+Case 471,22/3/2020,Imported,Singapore,22,M,UK
+Case 472,22/3/2020,Imported,Singapore,19,F,UK
+Case 473,22/3/2020,Imported,Singapore,25,M,UK
+Case 474,22/3/2020,Imported,Singapore,22,F,UK
+Case 475,22/3/2020,Imported,Singapore,22,F,Ireland
+Case 476,22/3/2020,Imported,Indonesia,68,M,Indonesia
+Case 477,22/3/2020,Local,Ireland,44,M,
+Case 478,22/3/2020,Local,Singapore,80,M,
+Case 479,22/3/2020,Local,Indonesia,35,F,
+Case 480,22/3/2020,Local,Singapore,52,F,
+Case 481,22/3/2020,Imported,Singapore PR,37,F,UK
+Case 482,22/3/2020,Imported,Singapore,35,M,US
+Case 483,22/3/2020,Imported,Singapore,28,F,US
+Case 484,22/3/2020,Imported,Singapore,21,M,UK
+Case 485,22/3/2020,Imported,Singapore,20,M,UK
+Case 486,22/3/2020,Imported,Singapore,22,M,UK
+Case 487,22/3/2020,Imported,Singapore,72,M,Indonesia
+Case 488,22/3/2020,Imported,Singapore,36,M,UK
+Case 489,22/3/2020,Imported,Singapore,25,M,UK
+Case 490,22/3/2020,Imported,Singapore,36,M,"France, UK"
+Case 491,22/3/2020,Imported,Singapore,22,M,UK
+Case 492,22/3/2020,Imported,India,24,F,UK
+Case 493,22/3/2020,Imported,Singapore,23,F,UK
+Case 494,22/3/2020,Imported,Singapore,24,M,Sweden
+Case 495,22/3/2020,Imported,Singapore,29,F,UK
+Case 496,22/3/2020,Imported,Singapore,21,F,UK
+Case 497,22/3/2020,Imported,Singapore,63,F,UK
+Case 498,22/3/2020,Imported,Singapore,22,F,UK
+Case 499,22/3/2020,Imported,Singapore,27,F,US
+Case 500,22/3/2020,Imported,Singapore,24,M,"Switzerland, Iceland"
+Case 501,22/3/2020,Imported,Singapore,65,M,UK
+Case 502,22/3/2020,Imported,India,74,F,UK
+Case 503,22/3/2020,Imported,Singapore,26,M,UK
+Case 504,23/3/2020,Imported,Singapore,32,F,"Netherlands, UK"
+Case 505,23/3/2020,Imported,Singapore,24,M,UK
+Case 506,23/3/2020,Imported,Australia,49,M,"France, UK"
+Case 507,23/3/2020,Imported,Singapore,29,F,UK
+Case 508,23/3/2020,Imported,Singapore,23,M,UK
+Case 509,23/3/2020,Imported,Singapore,53,M,Indonesia
+Case 510,23/3/2020,Local,Singapore,52,F,
+Case 511,23/3/2020,Local,Singapore,53,M,
+Case 512,23/3/2020,Imported,Singapore,21,F,UK
+Case 513,23/3/2020,Imported,Singapore,21,M,Pending
+Case 514,23/3/2020,Imported,India,18,F,Pending
+Case 515,23/3/2020,Imported,Singapore,24,M,US
+Case 516,23/3/2020,Local,Singapore,42,F,
+Case 517,23/3/2020,Imported,Singapore,37,M,"France, UK"
+Case 518,23/3/2020,Imported,Australia,46,M,US
+Case 519,23/3/2020,Imported,Germany,44,M,Germany
+Case 520,23/3/2020,Local,Singapore,71,M,
+Case 521,23/3/2020,Local,Singapore,37,F,
+Case 522,23/3/2020,Imported,Singapore PR,45,F,US
+Case 523,23/3/2020,Imported,Philippines,9,M,Philippines
+Case 524,23/3/2020,Local,Singapore,61,M,
+Case 525,23/3/2020,Local,Singapore,64,F,
+Case 526,23/3/2020,Imported,Singapore,22,F,US
+Case 527,23/3/2020,Local,Singapore,44,M,
+Case 528,24/3/2020,Local,Singapore,50,M,
+Case 529,24/3/2020,Imported,Singapore,19,F,Europe
+Case 530,24/3/2020,Imported,Singapore,35,M,US
+Case 531,24/3/2020,Local,India,43,M,
+Case 532,24/3/2020,Imported,Singapore,44,M,Asean
+Case 533,24/3/2020,Local,Singapore,61,M,
+Case 534,24/3/2020,Imported,UK,34,M,Europe
+Case 535,24/3/2020,Local,Singapore,61,M,
+Case 536,24/3/2020,Local,Singapore,86,F,
+Case 537,24/3/2020,Imported,Singapore,22,F,Europe
+Case 538,24/3/2020,Imported,Singapore,50,M,Asean
+Case 539,24/3/2020,Local,Singapore,74,F,
+Case 540,24/3/2020,Imported,Singapore,23,M,US
+Case 541,24/3/2020,Imported,Singapore,20,F,Europe
+Case 542,24/3/2020,Imported,Singapore,23,M,Europe
+Case 543,24/3/2020,Imported,Singapore,19,F,Europe
+Case 544,24/3/2020,Imported,Singapore,55,M,Europe
+Case 545,24/3/2020,Imported,Indonesia,75,F,Asean
+Case 546,24/3/2020,Imported,Singapore,27,M,UK
+Case 547,24/3/2020,Imported,Singapore,25,F,UK
+Case 548,24/3/2020,Imported,Singapore,44,F,Spain
+Case 549,24/3/2020,Imported,Singapore,21,F,UK
+Case 550,24/3/2020,Local,Singapore,24,F,
+Case 551,24/3/2020,Imported,Singapore,22,F,UK
+Case 552,24/3/2020,Imported,Singapore PR,21,F,UK
+Case 553,24/3/2020,Local,Singapore,57,F,
+Case 554,24/3/2020,Imported,Malaysia,24,F,"Turkey, UAE"
+Case 555,24/3/2020,Imported,Singapore,24,M,UK
+Case 556,24/3/2020,Local,UK,27,F,
+Case 557,24/3/2020,Imported,Singapore,68,M,Pakistan
+Case 558,24/3/2020,Imported,Singapore,17,M,Malaysia
+Case 559,24/3/2020,Imported,Singapore,22,M,UK
+Case 560,24/3/2020,Imported,Singapore,24,M,US
+Case 561,24/3/2020,Imported,Singapore,30,M,France
+Case 562,24/3/2020,Imported,Singapore PR,28,F,Indonesia
+Case 563,24/3/2020,Imported,Singapore,25,M,UK
+Case 564,24/3/2020,Imported,France,29,M,Pending
+Case 565,24/3/2020,Imported,Singapore PR,46,F,UK
+Case 566,24/3/2020,Local,Singapore,67,F,
+Case 567,24/3/2020,Local,Singapore,70,M,
+Case 568,24/3/2020,Imported,Malaysia,30,M,Malaysia
+Case 569,24/3/2020,Imported,Singapore,22,F,UK
+Case 570,24/3/2020,Local,Singapore,50,M,
+Case 571,24/3/2020,Imported,UK,52,M,UK
+Case 572,24/3/2020,Local,Singapore,26,F,
+Case 573,24/3/2020,Local,Singapore,45,M,
+Case 574,24/3/2020,Imported,Singapore,24,M,Pending
+Case 575,24/3/2020,Imported,Singapore PR,28,M,Pending
+Case 576,24/3/2020,Imported,Singapore PR,21,F,US
+Case 577,24/3/2020,Local,Pending,37,F,
+Case 578,24/3/2020,Local,Singapore,11,M,
+Case 579,24/3/2020,Imported,Singapore,25,M,UK
+Case 580,24/3/2020,Local,US,35,F,
+Case 581,24/3/2020,Local,Singapore PR,47,M,
+Case 582,24/3/2020,Imported,Singapore,3,F,US
+Case 583,24/3/2020,Local,Singapore,61,F,
+Case 584,24/3/2020,Local,Singapore PR,37,F,
+Case 585,24/3/2020,Local,Philippines,38,F,
+Case 586,24/3/2020,Local,Singapore,51,M,
+Case 587,24/3/2020,Imported,Singapore,25,M,UK
+Case 588,24/3/2020,Imported,UK,62,M,UK
+Case 589,24/3/2020,Local,Singapore,47,M,
+Case 590,24/3/2020,Imported,Singapore PR,21,F,UK
+Case 591,24/3/2020,Imported,Singapore,64,M,Portugal
+Case 592,24/3/2020,Imported,Singapore,24,M,UK
+Case 593,24/3/2020,Imported,Singapore,24,M,US
+Case 594,24/3/2020,Local,China,23,F,
+Case 595,24/3/2020,Imported,Singapore,19,F,Pending
+Case 596,24/3/2020,Imported,Singapore,35,M,UK
+Case 597,24/3/2020,Local,Singapore,50,F,
+Case 598,24/3/2020,Local,India,35,F,
+Case 599,24/3/2020,Imported,Singapore,32,M,UK
+Case 600,24/3/2020,Imported,Singapore PR,66,M,Pending
+Case 601,24/3/2020,Local,Singapore,47,F,
+Case 602,24/3/2020,Local,Singapore,56,F,
+Case 603,24/3/2020,Local,Singapore,23,F,
+Case 604,24/3/2020,Local,Philippines,36,F,
+Case 605,24/3/2020,Local,Singapore,29,F,
+Case 606,25/3/2020,Local,Singapore,55,M,
+Case 607,25/3/2020,Imported,Singapore,40,F,UK
+Case 608,25/3/2020,Imported,France,18,F,Canada
+Case 609,25/3/2020,Local,Singapore,30,F,
+Case 610,25/3/2020,Local,Singapore,25,F,
+Case 611,25/3/2020,Imported,Singapore,24,M,UK
+Case 612,25/3/2020,Local,Singapore,22,F,
+Case 613,25/3/2020,Imported,Singapore,62,F,Thailand
+Case 614,25/3/2020,Local,Singapore,62,F,
+Case 615,25/3/2020,Imported,Singapore,44,F,Germany
+Case 616,25/3/2020,Imported,Malaysia,39,M,Malaysia
+Case 617,25/3/2020,Local,Philippines,26,F,
+Case 618,25/3/2020,Local,UK,29,F,
+Case 619,25/3/2020,Local,Singapore,65,F,
+Case 620,25/3/2020,Imported,Singapore,18,F,UK
+Case 621,25/3/2020,Local,Singapore PR,50,M,
+Case 622,25/3/2020,Imported,Singapore,27,F,UK
+Case 623,25/3/2020,Imported,Indonesia,58,F,Indonesia
+Case 624,25/3/2020,Local,Singapore,48,F,
+Case 625,25/3/2020,Imported,Philippines,27,M,Philippines
+Case 626,25/3/2020,Local,UK,44,F,
+Case 627,25/3/2020,Imported,Singapore,18,F,UK
+Case 628,25/3/2020,Imported,Singapore,23,M,UK
+Case 629,25/3/2020,Imported,Singapore,46,M,Pakistan
+Case 630,25/3/2020,Local,Singapore,43,F,
+Case 631,25/3/2020,Local,India,3,F,
+Case 632,25/3/2020,Local,Singapore,32,M,
+Case 633,25/3/2020,Imported,Singapore,35,M,UK
+Case 634,25/3/2020,Imported,Singapore,42,F,"Taiwan, Philippines"
+Case 635,25/3/2020,Imported,Singapore,21,F,US
+Case 636,25/3/2020,Imported,Singapore,22,F,UK
+Case 637,25/3/2020,Local,China,24,M,
+Case 638,25/3/2020,Local,Singapore,49,M,
+Case 639,25/3/2020,Imported,Singapore,40,M,UK
+Case 640,25/3/2020,Imported,Singapore,18,M,"UAE, UK, Germany"
+Case 641,25/3/2020,Imported,Singapore,55,M,"UAE, UK, Germany"
+Case 642,25/3/2020,Imported,Singapore,19,M,UK
+Case 643,25/3/2020,Local,Singapore PR,51,F,
+Case 644,25/3/2020,Local,Singapore,52,M,
+Case 645,25/3/2020,Local,Singapore,27,M,"Thailand, Malaysia"
+Case 646,25/3/2020,Imported,Singapore PR,56,F,Indonesia
+Case 647,25/3/2020,Imported,Singapore,46,F,US
+Case 648,25/3/2020,Imported,France,26,M,Sri Lanka
+Case 649,25/3/2020,Imported,Singapore,36,M,Australia
+Case 650,25/3/2020,Imported,Singapore PR,19,M,UK
+Case 651,25/3/2020,Imported,Malaysia,31,M,Thailand
+Case 652,25/3/2020,Local,Australia,37,M,
+Case 653,25/3/2020,Imported,Singapore,25,F,US
+Case 654,25/3/2020,Imported,Singapore,66,F,"Italy, Switzerland"
+Case 655,25/3/2020,Local,India,30,M,
+Case 656,25/3/2020,Imported,Singapore,30,M,Pending
+Case 657,25/3/2020,Local,UK,46,M,
+Case 658,25/3/2020,Local,Bangladesh,28,M,
+Case 659,25/3/2020,Local,Singapore,27,F,
+Case 660,25/3/2020,Local,Philippines,22,F,
+Case 661,26/3/2020,Local,Singapore,44,F,
+Case 662,26/3/2020,Local,UK,42,M,Malaysia
+Case 663,26/3/2020,Imported,Singapore,21,F,UK
+Case 664,26/3/2020,Imported,US,38,F,Pending
+Case 665,26/3/2020,Imported,Singapore,21,F,US
+Case 666,26/3/2020,Local,Singapore,32,F,
+Case 667,26/3/2020,Imported,Singapore,40,F,US
+Case 668,26/3/2020,Local,India,31,F,India
+Case 669,26/3/2020,Imported,UK,54,M,France
+Case 670,26/3/2020,Local,Australia,34,M,
+Case 671,26/3/2020,Imported,Singapore,29,F,US
+Case 672,26/3/2020,Imported,Singapore,24,F,US
+Case 673,26/3/2020,Imported,Singapore,27,M,US
+Case 674,26/3/2020,Imported,Singapore,59,M,UK
+Case 675,26/3/2020,Local,Singapore,51,F,
+Case 676,26/3/2020,Local,Singapore,29,M,Thailand
+Case 677,26/3/2020,Local,Singapore,40,F,
+Case 678,26/3/2020,Local,Singapore PR,71,M,
+Case 679,26/3/2020,Local,US,45,M,
+Case 680,26/3/2020,Imported,UK,19,M,Pending
+Case 681,26/3/2020,Local,New Zealand,42,M,Indonesia
+Case 682,26/3/2020,Local,Singapore PR,22,M,
+Case 683,26/3/2020,Imported,Singapore PR,40,F,Pending
+Case 684,26/3/2020,Imported,Singapore PR,21,M,UK
+Case 685,26/3/2020,Local,New Zealand,59,M,
+Case 686,26/3/2020,Local,UK,37,M,
+Case 687,26/3/2020,Local,Singapore,77,M,
+Case 688,26/3/2020,Local,Singapore,76,F,
+Case 689,26/3/2020,Local,Singapore,76,F,Malaysia
+Case 690,26/3/2020,Imported,Singapore PR,31,F,"Thailand, Malaysia"
+Case 691,26/3/2020,Local,UK,39,F,
+Case 692,26/3/2020,Imported,Singapore,67,F,Malaysia
+Case 693,26/3/2020,Imported,Singapore,30,F,Pending
+Case 694,26/3/2020,Imported,Singapore,41,M,Pending
+Case 695,26/3/2020,Imported,India,1,F,Pending
+Case 696,26/3/2020,Local,Singapore PR,54,M,
+Case 697,26/3/2020,Local,Singapore PR,57,F,
+Case 698,26/3/2020,Local,Singapore,60,M,
+Case 699,26/3/2020,Imported,Singapore PR,53,M,Pending
+Case 700,26/3/2020,Imported,Singapore,55,F,Europe
+Case 701,26/3/2020,Imported,Singapore,50,M,US
+Case 702,26/3/2020,Imported,Singapore,61,M,Europe
+Case 703,26/3/2020,Imported,Singapore,58,F,Europe
+Case 704,26/3/2020,Imported,Singapore,19,M,Europe
+Case 705,26/3/2020,Local,Singapore,2,F,
+Case 706,26/3/2020,Local,Singapore,6,F,
+Case 707,26/3/2020,Local,Singapore,11,M,
+Case 708,26/3/2020,Local,Singapore,13,F,
+Case 709,26/3/2020,Local,Singapore,26,M,
+Case 710,26/3/2020,Local,Bangladesh,28,M,
+Case 711,26/3/2020,Imported,Singapore PR,21,F,Europe
+Case 712,26/3/2020,Imported,Singapore,38,F,Europe
+Case 713,26/3/2020,Local,UK,59,F,
+Case 714,26/3/2020,Local,South Korea,27,F,
+Case 715,27/3/2020,Imported,Singapore,71,M,Malaysia
+Case 716,27/3/2020,Local,Singapore,67,F,
+Case 717,27/3/2020,Imported,India,19,F,Pending
+Case 718,27/3/2020,Local,Bangladesh,33,M,
+Case 719,27/3/2020,Imported,Singapore,29,M,UK
+Case 720,27/3/2020,Imported,Indonesia,20,M,US
+Case 721,27/3/2020,Local,Singapore,68,F,
+Case 722,27/3/2020,Local,Singapore,56,M,
+Case 723,27/3/2020,Imported,Singapore,27,F,UK
+Case 724,27/3/2020,Local,Malaysia,29,M,
+Case 725,27/3/2020,Imported,Singapore,23,M,UK
+Case 726,27/3/2020,Local,Singapore,59,M,
+Case 727,27/3/2020,Imported,Singapore,59,M,UK
+Case 728,27/3/2020,Local,Singapore,22,M,
+Case 729,27/3/2020,Local,Singapore PR,53,M,
+Case 730,27/3/2020,Local,Singapore PR,26,M,
+Case 731,27/3/2020,Local,Singapore,32,M,
+Case 732,27/3/2020,Imported,Singapore,23,F,UK
