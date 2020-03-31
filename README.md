@@ -1,4 +1,39 @@
-#  Covid-19: Visual Notes From Singapore’s First 100 Fully Recovered  Patients
+#  Covid-19: Analysis and Visual Notes From Singapore
+
+This is an ongoing series of notebooks and datasets looking at various aspects of the Covid-19 outbreak in Singapore. While many data analysts are focusing on the global outbreak, or on bigger countries, I chose to go deep in just one country.
+
+The sections are arranged in reverse chronoglogy, with the most recent one upfront.
+
+---
+---
+
+# II. The Second Covid-19 Wave In Singapore
+
+![](https://miro.medium.com/max/4800/1*wJDgaTUgz3cVeKA49DhPZQ.jpeg)
+
+Singapore’s battle against the novel coronavirus entered a new phase around March 10, when the number of imported cases began to spike sharply. The city-state’s experience could be a canary in the coal mine for other countries still grappling with the first phase of the outbreak.
+
+Fuller background in my Medium post [here](https://medium.com/@chinhonchua/covid-19-the-second-wave-in-singapore-91e886b3d444).
+
+---
+
+## 1. DATA SOURCE
+This [dataset](https://github.com/chuachinhon/covid_sg/blob/master/data/covidsg_2ndwave.csv) covers 732 confirmed cases (415 imported, 317 local) announced by the Singapore authorities between January 23 and March 27. Data for the charts were compiled from daily Covid-19 updates on the health ministry’s [website](https://www.moh.gov.sg/news-highlights/).
+
+![](https://miro.medium.com/max/1400/1*ynziY1C0Nh2ZDn_uNw4Esg.jpeg)
+
+
+## 2. NOTEBOOK
+Through a series of charts in this [notebook](https://github.com/chuachinhon/covid_sg/blob/master/notebooks/2.0_covidsg_2nd_wave_cch.ipynb), I try to examine the inflection point between the First and Second Wave of the Covid-19 outbreak in Singapore, and see where they differ.
+
+I used Flourish Studio's survey template for a quick breakdown of key demographic data in the two phases. You can access the first interactive chart [here](https://public.flourish.studio/visualisation/1732543/), and the second one [here](https://public.flourish.studio/visualisation/1722034/).
+
+
+![](https://miro.medium.com/max/2000/1*Slu3_Rf9TAOA68LdOJSHyA.jpeg)
+
+---
+---
+#  I. Visual Notes From Singapore’s First 100 Fully Recovered Covid-19 Patients
 
 ![](https://miro.medium.com/max/7674/1*OXrvgbMbeR165fPlybBbfg.jpeg)
 
